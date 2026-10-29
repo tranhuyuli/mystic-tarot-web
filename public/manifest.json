@@ -1,0 +1,19 @@
+{
+  "short_name": "Tâm An Tarot",
+  "name": "Tâm An Tarot - Trải Nghiệm Bói Bài Tarot & Luận Giải AI Chữa Lành",
+  "description": "Tâm An Tarot - Trải nghiệm bói bài Tarot tương tác chân thực kết hợp công nghệ RAG và AI mang lại bình an nội tại.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#07040d",
+  "theme_color": "#0d091e",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["lifestyle", "entertainment"]
+}
